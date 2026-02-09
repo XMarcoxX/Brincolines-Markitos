@@ -14,7 +14,7 @@ Actualmente, el control de las rentas se realiza de forma informal, lo que ocasi
 
 El objetivo es digitalizar este proceso para optimizar la logística, evitar conflictos de agenda y tener un histórico claro de las rentas y ganancias.
 
-## Tech Stack (Tecnologías a utilizar)
+## Tech Stack
 - **Motor de Base de Datos:** MySQL
 - **Diseño:** Diagramas Entidad-Relación (E-R).
 - **Lenguaje de Consultas:** SQL.
